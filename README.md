@@ -1,1 +1,1 @@
-project 1: home; professional resume; my city
+project 1: hobbies; professional resume; travel
